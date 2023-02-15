@@ -1,0 +1,15 @@
+2023/02/15-08:55:41.198 52a Reusing MANIFEST /home/avenger047/.config/BraveSoftware/Brave-Browser/Default/Extension State/MANIFEST-000001
+2023/02/15-08:55:41.556 52a Recovering log #16
+2023/02/15-08:55:42.473 52a Reusing old log /home/avenger047/.config/BraveSoftware/Brave-Browser/Default/Extension State/000016.log 
+2023/02/15-09:04:32.391 52b Level-0 table #20: started
+2023/02/15-09:04:32.569 52b Level-0 table #20: 2081345 bytes OK
+2023/02/15-09:04:32.781 52b Delete type=0 #16
+2023/02/15-09:04:32.782 52b Compacting 4@0 + 1@1 files
+2023/02/15-09:04:33.469 52b Generated table #21@0: 2 keys, 4267 bytes
+2023/02/15-09:04:33.469 52b Compacted 4@0 + 1@1 files => 4267 bytes
+2023/02/15-09:04:33.569 52b compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/02/15-09:04:33.569 52b Delete type=2 #8
+2023/02/15-09:04:33.569 52b Delete type=2 #11
+2023/02/15-09:04:33.569 52b Delete type=2 #14
+2023/02/15-09:04:33.569 52b Delete type=2 #17
+2023/02/15-09:04:33.569 52b Delete type=2 #20

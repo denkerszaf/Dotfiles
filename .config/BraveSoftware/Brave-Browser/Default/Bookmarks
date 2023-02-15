@@ -1,0 +1,224 @@
+{
+   "checksum": "1b76fd39112ff52cec298a4b14f9774f",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13240254019995616",
+            "date_last_used": "0",
+            "guid": "e6a8240c-1fef-4db5-b664-9fd3e1df9c06",
+            "id": "5",
+            "name": "Your Orders",
+            "type": "url",
+            "url": "https://www.amazon.in/gp/your-account/order-history?ref_=ya_d_c_yo"
+         }, {
+            "date_added": "13102446837000000",
+            "date_last_used": "0",
+            "guid": "09750eea-bade-4631-a44d-494b21c672e4",
+            "id": "6",
+            "name": "Garuda Linux",
+            "type": "url",
+            "url": "https://garudalinux.org/"
+         }, {
+            "date_added": "13102446886000000",
+            "date_last_used": "0",
+            "guid": "6b2fe9d8-9be1-4e61-b2a9-c8090e57cf79",
+            "id": "7",
+            "name": "Wiki",
+            "type": "url",
+            "url": "https://wiki.garudalinux.org/"
+         }, {
+            "date_added": "13102446920000000",
+            "date_last_used": "0",
+            "guid": "829a5231-182f-4406-9e68-3d4286dc278e",
+            "id": "8",
+            "name": "Garuda Forum",
+            "type": "url",
+            "url": "https://stats.garudalinux.org/"
+         } ],
+         "date_added": "13320766370558387",
+         "date_last_used": "0",
+         "date_modified": "13240254019995616",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13320766370558389",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13245160467815771",
+            "date_last_used": "0",
+            "guid": "56965c5e-ec19-455b-bf91-4741a4c2497f",
+            "id": "9",
+            "name": "PM prepared the nation for lockdown through Janata Curfew: Health Minister | India News,The Indian Express",
+            "type": "url",
+            "url": "https://indianexpress.com/article/india/pm-prepared-the-nation-for-lockdown-through-janata-curfew-health-minister-6604151/lite/?utm_source=Direct&utm_medium=Breaking_Ticker"
+         }, {
+            "date_added": "13246712850156574",
+            "date_last_used": "0",
+            "guid": "3479ae05-3248-4a54-9690-d5e097b84239",
+            "id": "10",
+            "name": "BOB Financial",
+            "type": "url",
+            "url": "https://www.bobfinancial.com/"
+         }, {
+            "date_added": "13252000842390651",
+            "date_last_used": "0",
+            "guid": "9dc48461-cdb6-4e86-ae58-94cc3adea558",
+            "id": "11",
+            "name": "500 - Internal server error.",
+            "type": "url",
+            "url": "https://ssc.nic.in/"
+         }, {
+            "date_added": "13252949863279496",
+            "date_last_used": "0",
+            "guid": "12e319a5-d8c7-4ccf-b25f-f499057cb548",
+            "id": "12",
+            "name": "Download ModelTime 20 12 19 Kim Do It Very Slowly 480p MP4-XXX Torrent | 1337x",
+            "type": "url",
+            "url": "https://1337x.to/torrent/4715008/ModelTime-20-12-19-Kim-Do-It-Very-Slowly-480p-MP4-XXX/"
+         }, {
+            "date_added": "13269501546476395",
+            "date_last_used": "0",
+            "guid": "8ad752da-68af-4949-b651-8de21586e7db",
+            "id": "13",
+            "name": "You'll be able to bypass Windows 11 TPM 2.0 requirement",
+            "type": "url",
+            "url": "https://www.google.com/amp/s/www.windowslatest.com/2021/06/28/youll-be-able-to-bypass-windows-11-tpm-2-0-requirement/amp/"
+         }, {
+            "date_added": "13272385245822539",
+            "date_last_used": "0",
+            "guid": "cf52d61c-54de-475f-ae36-ec1df9d9ffbf",
+            "id": "14",
+            "name": "ML Aggarwal Solutions For Class 10 Maths Chapter 22- Probability",
+            "type": "url",
+            "url": "https://byjus.com/ml-aggarwal-solutions/class-10-maths-chapter-22/"
+         }, {
+            "date_added": "13286981924597562",
+            "date_last_used": "0",
+            "guid": "0e551028-e381-4510-9dcc-aeb43631d225",
+            "id": "15",
+            "name": "Build for miatoll - PixelExperience Wiki",
+            "type": "url",
+            "url": "https://wiki.pixelexperience.org/devices/miatoll/build/"
+         }, {
+            "date_added": "13315752240464851",
+            "date_last_used": "0",
+            "guid": "aa0d6e2f-535c-415e-b36a-f143e51de49d",
+            "id": "16",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "https://chelpus.com/download/LuckyPatchers.com_Official_Installer_10.3.6.apk",
+            "type": "url",
+            "url": "https://chelpus.com/download/LuckyPatchers.com_Official_Installer_10.3.6.apk"
+         }, {
+            "date_added": "13315999732041877",
+            "date_last_used": "0",
+            "guid": "ed3744f6-fd7c-4f4f-a7cc-70740ef3385d",
+            "id": "17",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Alliance",
+            "type": "url",
+            "url": "http://172.24.72.1/0/up/"
+         }, {
+            "date_added": "13317125676092136",
+            "date_last_used": "13317998146175906",
+            "guid": "472c85f9-4b93-4d9f-94f7-52358807e414",
+            "id": "18",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Generic System Image (GSI) list - phhusson",
+            "type": "url",
+            "url": "https://magiskzip.com/gsi-list-phhusson/"
+         }, {
+            "date_added": "13317239011086586",
+            "date_last_used": "13318073365614605",
+            "guid": "577c6940-99fd-40c9-b17e-f9344a310f68",
+            "id": "19",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Generic System Image (GSI) list - phhusson",
+            "type": "url",
+            "url": "https://magiskzip.com/gsi-list-phhusson/#Unofficial_Android_13"
+         }, {
+            "date_added": "13317449462062815",
+            "date_last_used": "0",
+            "guid": "1eeadfce-40d4-4a05-9baa-d19109fc2631",
+            "id": "20",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "[UNIVERSAL][LOGCAT]How to get & read a logcat/ Troubleshoot your own issues! | XDA Forums",
+            "type": "url",
+            "url": "https://forum.xda-developers.com/t/universal-logcat-how-to-get-read-a-logcat-troubleshoot-your-own-issues.2274119/"
+         }, {
+            "date_added": "13317833323255065",
+            "date_last_used": "0",
+            "guid": "52e275f6-55d2-458d-b325-f9ce9352114f",
+            "id": "21",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Magic ToolFlash lets you flash ZIP packages directly from your Android device",
+            "type": "url",
+            "url": "https://www.xda-developers.com/magic-toolflash-magisk-module/"
+         }, {
+            "date_added": "13319381181344711",
+            "date_last_used": "0",
+            "guid": "28d87683-4571-45f2-b6f5-2bbed16539e4",
+            "id": "22",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Free Telegram Video Downloader HD Quality Fast",
+            "type": "url",
+            "url": "https://pastedownload.com/telegram-video-downloader/#url=https://t.me/c/1869632333/10"
+         }, {
+            "date_added": "13320733362389060",
+            "date_last_used": "0",
+            "guid": "a9c2d4e1-14d5-4d9f-86ba-87dd5a6c9b28",
+            "id": "23",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Q tile theme",
+            "type": "url",
+            "url": "https://github.com/Darkkal44/CozyTile"
+         }, {
+            "date_added": "13320734904850437",
+            "date_last_used": "13320766547657728",
+            "guid": "02883a3d-c818-40e7-8369-678096e3c7a5",
+            "id": "24",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Qtile Theme",
+            "type": "url",
+            "url": "https://github.com/luxirio/linux/tree/master/arco_dotfiles"
+         } ],
+         "date_added": "13320766370558391",
+         "date_last_used": "0",
+         "date_modified": "13320734904850437",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CooBChAIiIECEgryvbLDyWEAAAAAEgAaWGtNKzkxaVlBbXduVkVUZUdZMHRkM0tYWlBXUko3Z2JKcmlNbXVjaGlyTkthaEpaOGc1elExQTlDeUg2QTVHMERFeURiVDM1aTVLT09hV25ZRjdpTUd3PT0gASoYekFsS2thZmdWbmRXZTlMSTVLWllSQT09EqkBCBISpAEKHEpQNFJLS09MKzlPK2hMQUlCTFFsdnlUaWY5ST0SJGEyNDI5OWFmLWI5ODAtNGE5YS1hNmM2LTk3YWVlM2Y2NTgyZhgAIAAoADCDsNiu2jA4vujUjtcwQL7o1I7XMEocRWtnYnpQWlIzUnFLVjFTNFNFb3ovcnIwbnkwPVogIh7//UhHOXhiUU1vWHB0UFJjMTBHWlJiNWxxNE1MYz1lGPnapBKqAQgXEqUBChxwOUR1UjZ4UVpVN2JxRXVPbXJHci9WdGR0aDg9EiQ5Y2I5YmJmYi03NDY4LTQ3ZGUtOWQzMS02ZWE2Y2RkODY4NzkYACABKAEw+Z7Z4eQwONXB+MbkMED5ntnh5DBKHHdVOFJGaCtxTXNQLzJ2ZGx3TXVqR2VCM2RCaz1aISIf///pcTJIT0ptQWp6YUxrWFJXdkV6WkFRQldWLzR3PWXlJscyEqkBCBQSpAEKHDQvenpPVkttajBKVnRJeXAyVWpZN2JjWFJPcz0SJGM0ZmRhZGRiLWYxZDAtNDRiNC04OTA1LTVlMzIyNTJmZTkwORgAIAAoADDBqoep2DA4t5KHqdgwQLeSh6nYMEocTjdrRjlQV2RoTHcyaVhvcXJnL2hybDBMeUt3PVogIh7//0tJSyt6ZmVyTDA2Q0RBT3FIMkJ6bWViYVlmaz1lTMYSkBKqAQgYEqUBChx3eGl3NGp2M01aR3JEakJ2cjZZTllQSHlQeU09EiRiNzQ0OWNjNC0xNTViLTQ2M2ItOGU3Ni1mOTQyYTkzMmZlZjUYACABKAEw857Z4eQwOJLU1sfkMEDzntnh5DBKHHZGVGRjZkl1K0wycUJWOFdVRHcyU0w0eEg0Zz1aISIf///0SzYzWEI1S2dmMzd1ditUYUo4SnVGVWhIcmxNPWXlJscyEqkBCBMSpAEKHElzQXNOSHl4engvWG5RaEg5TkhsN1FPbGIvND0SJDVkMWNiNDRkLTU0YjktNGEwMi04OWY3LWNmMzkzZDVkY2UwOBgAIAAoADCGucfS2jA4j57axNcwQI+e2sTXMEocV2k0NUQ4U1FJWi8zQmRsZEZBRFlsQUduMzk0PVogIh7//k5qQ21Sei9XMjV1a0VZbTArTng2Ulp6ak9Eaz1lm2reQRKpAQgREqQBChxYek9FekZ5clJPajdJMGF3QktXSHNxN2JGbVE9EiQxZGQ1ODMwYS1hZDkyLTQwZjEtOGY5Yy1jYjMxZDMwYzcyMmMYACAAKAAw66H99dIwOMrS4vXSMEDK0uL10jBKHHlLd3hYaEsrN05ZSTQwRzA0VzNCT0VlS1ZiVT1aICIe//t1c3dFQlZHQ3J6TFpUZ1EvemsvZEtVWlJTUU09ZVurDQ8SqQEIEBKkAQocbXNwZTVwanRQVVVqTkpjY2pkdTJZQmFQeHZvPRIkYWE4ZDdiYzQtNzJiYi00MjA1LTk2MjktMWY3YjNkNzY5MmUzGAAgACgAML+v4f/RMDjR+uD/0TBA0frg/9EwShw2a1IxWWpRYVdONUlKY2REWUVnL3lqbUxENFE9WiAiHv/3SysxVDZyM05wTklRNGVMUFpNaHdqbHpGcWRvPWUAAAAAEqgBCAoSowEKHElPSU42bEdDRlNDSTR2RHE0VVhOK3FzNnBzRT0SJDc5OTNmYTZjLTBhZGEtNDA2Yi1iMzhhLTk4OTkyZmNmYTUzNRgAIAAoADCrjYej7i847PCiweQuQOzwosHkLkocRWRER2k3c3Y3M1pOZkFjaWRaVzlkdW90MkxzPVofIh32OUV3QllHS1RBNjhLT2lScURBVllkSTgyRXA0PWXW0QDfEqkBCA8SpAEKHDFBTFU4QUxNeDUyZU90V1RRTk1yV3FiQzlzcz0SJDIzMWFlMjI0LTI4ZjMtNGQxMS1iZjFhLThjMGU0NGUxMjQ1ZRgAIAAoADDMjYej7i848NOuwOcvQPDTrsDnL0ocZEJ6U20rTWxjOVVBd3ZJQjBKVitubkJtc0xNPVogIh7/7kl1K1VFVFpzU1FTakE1QnZidC9ocEpRRGZPUT1lTYQ3BRKpAQgOEqQBChxqLzhJWHllaWhOU0JMaXVOTWJldU5NK0txWFE9EiQwNmZmZjliZi02N2VlLTQ2OGMtODJhMy1mZDBhMGQ3YWJhOWQYACAAKAAw9o2Ho+4vOIbV4biwL0CG1eG4sC9KHEhpM1ZUZFl3cUpEdGxkbGQ4c0d2T1dVNkgxMD1aICIe/91BS0tyejRWZU9tREZScWhhbVQ1aWdxK2dFdlE9ZQNVwegSqQEIDRKkAQocV3JwSjlnNWFPT1BYRFE0ZHdFenZlamplOVhRPRIkMTA5ZTBmZWQtYjYyZC00MDcyLTk1OGMtZjgxZGRjYmYxOTYyGAAgACgAMNWNh6PuLzjuz9rZpS9A7s/a2aUvShw4SjV3amFQR3owNXd5bDVndnAvNTN0Y3lscHc9WiAiHv+7QnU3cFB6eFVBZlNFaHZJeENnTGRSR25NNFNFPWUQMP/kEqgBCAwSowEKHGJQemR3THlzVTY1bVRFY1VaaHNYNE1CWno1TT0SJDMzODQyMTI1LTRhYjQtNDZhZC1hYzVmLWEzNzYxYTc2ZjhhOBgAIAAoADDcjYej7i8474agheguQO+GoIXoLkocZTR0NHpyUTcwS29nanhVZytqVzRvRDRvWGtZPVofIh3+dFlvWmpXN1R1Q2dxNEk2UHZ2bS9RSEgxdEJJPWVzQIcjEqoBCBUSpQEKHEs3aGhWV0ZrSW9aYVVBQ2FmUXJDK3N5Tm0vRT0SJDY0YzYwNzFhLWQ2NzQtNDY4Yy1iZjdjLWU1MDZiYWY0YWU0MRgAIAAoADDe95qN2jA495WM4NkwQPeVjODZMEocclczQXVCdG9LTXRhR1hnaWY3dUg4RjVDZXBNPVohIh///6UzMVNTZTFpWnp1MS9tR3hnMStwM1ZieFFnbjg9ZSjyRjQSqAEICRKjAQocY2V5VnVrTzhxNDR3UGxncFIyL3F0bzBlcTM4PRIkZmZlZGI1NjQtZGYzZi00OWM2LWEyZGItNTI4ZmJmNTIzZmJkGAAgACgAMIaNh6PuLzjr8KLB5C5A6/CiweQuShxacDJnUjBUSHF0QUJPNkhpY09OdHRER0htQUU9Wh8iHe1lYWFuNStLMWswNjk0Z3A0Y0NNMEJWNmdVUjQ9Za3O3CISgwEIAxJ/ChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EiQzMDJiODliZi1kMGM1LTQ4YmItODM2ZS1mMWM5NGNkMWNhNmYYACAAKAAwATip66LB5C5AqeuiweQuShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAABKoAQgLEqMBChxpb1RRS0ZmeEcrWXdjTnBPampNQWtJOTR1c3M9EiQzNTUzYThiMC0zYTdjLTRjMjItYWJkMC1hYTMzNDA3MTU2ZGEYACAAKAAw7I2Ho+4vOOzwosHkLkDs8KLB5C5KHG9TZVJqMDdNdTlMS0ZEd1dzaUcrcjltOHlKYz1aHyId/XlTODBZMHJKYUJQTVNvWXl5aUREVnJkc1BqYz1lP2bBHxKoAQgIEqMBChxWTjhkc1FRSkVEQnpZMEVXWlpJOHdwWXduSTQ9EiQzZWRhZWVlYi05NGZmLTQwYzItODQ0ZC03OTM4M2NmODBkZDkYACAAKAAw94WHo+4vOMKuzpDmLkDCrs6Q5i5KHFVBUUR6YkVsZS9MY2gyWmpnb21YS1pnQkZoYz1aHyId7Xp4V3J4UW1HKzhjMS9IZzhXZmxnYzVacjE0MD1lAAAAABKoAQgHEqMBChxJRUVZR21wY0E3bzhvVHppU2ZyWlZwQlc2a3M9EiRhNjcwNmMyNi1iYWJhLTRiNjctYjVkNi1mZjE5ZGY0MjExYzcYACAAKAAwjYaHo+4vOMKuzpDmLkDCrs6Q5i5KHGRyRmo1TWJuSlNHQ004U05vK3AzTE5MQnV3MD1aHyIdtzN5UytZTDN3SVUrMitDWHNqOUI3UU9HVHVrMD1lAAAAABKnAQgFEqIBChxESDVHeGR2MjNLcHljRUpXTVpZVFpWSWtjdDQ9EiQzNjVmYTdiMC0xMTFhLTRiZjYtOWI0Zi01MWYyZThlN2ExNTMYACACKAIw3YPg1uQwOOzwosHkLkCYgeDW5DBKHDI4Q1R2U2tTRGxvWVFCTVFPUEFNTmp5SlMzOD1aHiIcQjVya1VBZGpUWHJvZHluYTV1TEY0bWtwOTVJPWXDfjbUEoMBCAESfwoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRIkNGI0MjI1ZDgtNTM1My00YzgzLWI5NjYtODRmYWU1YjEzN2NhGAAgACgAMAE4qeuiweQuQKnrosHkLkocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAAASpwEIBhKiAQocNENLVDJ2UHlwSzRyVVp6SmRmTVZIQXVNSFFnPRIkNWM0YTc2MGUtMzQ3Yi00NWNmLWI5ZjEtN2JjODA1NDJkN2YyGAAgAigCMOOD4NbkMDjCrs6Q5i5AmYHg1uQwShx0bTR0T29PVDEwOGlkTFZTRS9sUnlJVy9KZE09Wh4iHG55TWhQOW8yVDJuaCtPSHJmeDVEbi9QUGo4MD1lYUSycRKqAQgWEqUBChxmR3I1cVBXQWsvZGN4Y3NrbTMzUi9JcDZhTFU9EiQ3M2JhNzhhNi1iMmY3LTQ0NzMtYjg2NC04NDc2OGY3NzJjMTAYACAAKAAwnqSWwt8wOKT3lcLfMECk95XC3zBKHDljekpPQVYxNmg3V1BDa0g3R0xzWU56d2JmYz1aISIf///SdFVhSXRpb2JRK0JRUTdFUy9YQmhjTExGYmlVPWXCrLtdEoMBCAISfwocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRIkMWYxYmQ1NDUtODY5MC00MTRlLTg2OTAtZjkzZGE5NzlhNjYzGAAgACgAMAE4qeuiweQuQKnrosHkLkocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAAAwATgA",
+   "version": 1
+}

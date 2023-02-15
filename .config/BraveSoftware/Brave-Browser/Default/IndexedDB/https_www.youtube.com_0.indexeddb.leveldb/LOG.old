@@ -1,0 +1,6 @@
+2023/02/14-14:52:22.752 450 Reusing MANIFEST /home/avenger047/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/02/14-14:52:22.752 450 Recovering log #3
+2023/02/14-14:52:22.757 450 Reusing old log /home/avenger047/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000003.log 
+2023/02/14-14:52:49.814 450 Level-0 table #5: started
+2023/02/14-14:52:49.944 450 Level-0 table #5: 955106 bytes OK
+2023/02/14-14:52:50.087 450 Delete type=0 #3

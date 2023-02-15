@@ -1,0 +1,6 @@
+2023/02/15-09:48:15.693 52a Creating DB /home/avenger047/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.atlassian.com_0.indexeddb.leveldb since it was missing.
+2023/02/15-09:48:15.826 52a Reusing MANIFEST /home/avenger047/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.atlassian.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/02/15-09:48:28.053 52b Level-0 table #5: started
+2023/02/15-09:48:28.096 52b Level-0 table #5: 21655 bytes OK
+2023/02/15-09:48:28.185 52b Delete type=0 #3
+2023/02/15-09:48:28.185 52b Manual compaction at level-0 from (begin) .. (end); will stop at (end)
